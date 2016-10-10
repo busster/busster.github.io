@@ -51,7 +51,7 @@ item = :B
 
 - Here we only have on element left which is infact the symbol we are looking for.
 
-*it is important to note that ruby will floor integer division.*
+**it is important to note that ruby will floor integer division.**
 
 ## Code
 
@@ -106,8 +106,8 @@ end
 
 - If we have not found the element, we need to call the method again to continue to divide the array up until we either find the element or run out of items to compare
 
-*One thing to not is that we are incrementing an indices_chopped variable if the element is in the latter half of the list.*
-*This is because arrays are zero indexed, and when we remove the former parts of the array we would shift our array indices however many indices we removed. So we need to keep track of the number we are removing to add that back in when we display our index.*
+**One thing to not is that we are incrementing an indices_chopped variable if the element is in the latter half of the list.**
+**This is because arrays are zero indexed, and when we remove the former parts of the array we would shift our array indices however many indices we removed. So we need to keep track of the number we are removing to add that back in when we display our index.**
 
 
 
