@@ -54,7 +54,7 @@ Next let's create some css styling so that our gears interlock
 ```
 - Here we are just using a margin to position these two images ontop of eachother.
 
-!["Gears"](../images/gears/gears.jpg)
+!["Gears"](../images/gears/gears.JPG)
 - It should look something like this
 
 Next we will have to add some keyframe animations so that we can rotate the gears
