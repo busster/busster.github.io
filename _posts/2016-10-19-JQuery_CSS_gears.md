@@ -18,11 +18,13 @@ Here are the two png's I'll be using
 
 ## HTML
 Let's drop these guys in our html markup
+
 ```html
 <div class="gears">
 	<img id="big" src=">>PATH TO IMAGE<<">
 	<img id="small" src=">>PATH TO IMAGE<<">
 </div>
+
 ```
 - Here we are creating a div container to hold our images.
 - This is necessary because we are going to use absolute positioning on our images to put them together, but we still want to control their flow in the page.
